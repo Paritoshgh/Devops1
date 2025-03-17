@@ -1,3 +1,5 @@
 this is feature
 
 another feature
+
+This is another file with extra line
